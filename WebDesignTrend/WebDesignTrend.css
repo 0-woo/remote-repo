@@ -1,0 +1,29 @@
+html{
+    height: 100%;
+}
+body{
+    background-color: gray;
+}
+.box1{
+    height: 400px;
+    width : 400px;
+    margin : 40px;
+    padding : 20px;
+    border : 1px none black;
+    box-sizing : border-box;
+    font-size: 24px;
+    background-color: white;
+}
+div{
+    font-weight: bold;
+}
+ul{
+    list-style: none;
+}
+li{
+    font-size: 18px;
+    font-weight: bold;
+}
+span{
+   font-size: 15px;
+}
